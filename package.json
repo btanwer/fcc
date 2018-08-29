@@ -1,0 +1,22 @@
+{
+  "name": "apicert",
+  "version": "1.0.0",
+  "description": "api certification project FCC",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btanwer/fcc.git"
+  },
+  "keywords": [
+    "na"
+  ],
+  "author": "bobby tanwer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/btanwer/fcc/issues"
+  },
+  "homepage": "https://github.com/btanwer/fcc#readme"
+}
